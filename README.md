@@ -1,4 +1,4 @@
-# COS30045 - G10 Drug Testing Visualisation Project
+# Australian Drug Testing Visualisation Dashboard
 
 ## Overview
 
