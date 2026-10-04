@@ -1,6 +1,6 @@
 # Australian Drug Testing Visualisation Dashboard
 
-**Live Demo:** [View Dashboard Here](https://aus-drug-testing-analytics.vercel.app
+**Live Demo:** [View Dashboard Here](https://aus-drug-testing-analytics.vercel.app)
 
 ## Overview
 
