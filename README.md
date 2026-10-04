@@ -1,5 +1,7 @@
 # Australian Drug Testing Visualisation Dashboard
 
+**Live Demo:** [View Dashboard Here](https://aus-drug-testing-analytics.vercel.app
+
 ## Overview
 
 This project is an **interactive D3.js data visualisation dashboard** that explores drug‑testing patterns in Australia from **2008 to 2024**. It was developed as part of an academic assignment and aims to present insights from publicly available datasets in a clear, engaging, and ethical manner.
